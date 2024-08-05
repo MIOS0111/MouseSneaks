@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseScrolling", "MouseScrolling.csproj", "{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{CFCF61B0-FC68-451B-A6E4-1C43AC5330DC}"
+	ProjectSection(SolutionItems) = preProject
+		Enemy.cs = Enemy.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Debug|x64.ActiveCfg = Debug|x64
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Debug|x64.Build.0 = Debug|x64
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Release|x64.ActiveCfg = Release|x64
+		{94C3868C-9BBD-44B2-B0E9-4CE50ADC2E41}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5F3305-62A1-4FCB-9565-0F78587B5841}
+	EndGlobalSection
+EndGlobal
